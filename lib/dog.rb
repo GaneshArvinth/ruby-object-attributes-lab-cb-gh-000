@@ -13,9 +13,9 @@ class Dog
   end
 
   def breed
-    @breed 
+    @breed
   end
-  
+
 end
 
 class Person
@@ -37,5 +37,3 @@ class Person
   end
 
 end
-
-
